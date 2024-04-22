@@ -1,7 +1,7 @@
 # idontuseit
-Repository for idontuse.it website
+idontuse.it is community-driven homepage for all privacy-minded people. If someone asks you to contact via Whatsapp, just simply reply idontuse.it :)
 
-This repo works like bug/process tracker. Fell free to open any Issue regarding anything related to idontuse.it website.
+This repo works like bug/process tracker for idontuseit project. Right now it is in early stage of development. Fell free to open any Issue regarding anything related to idontuse.it website.
 
 ## I need your help!
 
