@@ -5,7 +5,7 @@ This repo works like bug/process tracker for idontuseit project. Right now it is
 
 ## I need your help!
 
-I want to move from current hosting provider to more privacy-friendly alternative. If any UI designer can help me with reproducing design to work as a static page without JavaScript, please open Issue.
+I want to move from current hosting provider to more privacy-friendly alternative. If any UI designer can help me with reproducing design to work as a static page without JavaScript, please open an Issue.
 
 ## Roadmap
 
