@@ -8,3 +8,6 @@ For more informations please visit Framer's privacy policy:
 
 https://www.framer.com/legal/privacy-statement/
 https://www.framer.com/help/articles/gdpr-and-cookies/
+https://www.framer.com/legal/data-processing-addendum/
+
+Last updated: 26.04.2024
