@@ -9,6 +9,7 @@ I want to move from current hosting provider to more privacy-friendly alternativ
 
 ## Roadmap
 
-- Move from Framer to privacy-friendly alternative.
-- Add page with alternatives to popular services (https://github.com/Arturro43/privacy-links integration?).
-- Enhance UI/UX.
+- Move from Framer to privacy-friendly alternative (self hosting) [priority]
+- Add page with alternatives to popular services (integration with https://github.com/Arturro43/privacy-links?).
+- Enhance UI/UX, especially for mobile users.
+- Add more languages.
